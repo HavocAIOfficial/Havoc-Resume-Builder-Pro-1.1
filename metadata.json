@@ -1,0 +1,6 @@
+{
+  "name": "Resume Builder",
+  "description": "A premium SaaS-grade resume builder featuring customizable professional templates, real-time visual preview, step-by-step controls, and high-quality PDF downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
